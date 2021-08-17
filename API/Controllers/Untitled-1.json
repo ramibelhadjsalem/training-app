@@ -1,0 +1,1 @@
+[{"stmt":"SELECT * FROM __EFMigrationsHistory;","header":["MigrationId","ProductVersion"],"rows":[["20210719130437_InitialCreate","5.0.3"],["20210721145439_UserPasswordAdded","5.0.3"]]}]
